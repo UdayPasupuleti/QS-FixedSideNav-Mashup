@@ -17,7 +17,7 @@ I have designed the pages to represent the following objects
 
 * Details - 1 scatter plot, 1 map, 2 pie charts and 2 line chart.
 
-Above is to give an idea, you can use the objects according to your requirements and App design.
+Above is just to give an idea, you can use the objects according to your requirements and App design.
 
 
 ## Add your qv objects as shown below
