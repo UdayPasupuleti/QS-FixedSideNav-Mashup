@@ -1,0 +1,14 @@
+{
+	"type": "mashup",
+	"name": "Fixed-SideNav-Template",
+	"version": "1.0.0",
+	"description": "QS FixedSideNav Mashup with buttons",
+	"homepage": "",
+	"author": "UdayPasupuleti",
+	"keywords": "qlik-sense, mashup",
+	"license": "",
+	"repository": "",
+	"dependencies": {
+		"qlik-sense": ">=2.1.x"
+	}
+}
