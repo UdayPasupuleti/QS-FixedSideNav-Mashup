@@ -15,36 +15,12 @@ div.qvobject, div.qvplaceholder {
 	height: 300px;
 }
 
-#top{
-	width: 100%;
-    height: 90px;
-    min-height: 183px;
-    position: relative;
-    padding:
-}
-
 
 #main {
 	width: auto;
 	padding: 0;
 	
 }
-
-.image-header {
-	display: table;
-	position: relative;
-	margin-top: -20px;
-	width: 100%;
-	height: 30%;
-	background: url(leaf.jpg) no-repeat center center scroll;
-	-webkit-background-size: cover;
-	-moz-background-size: cover;
-	background-size: cover;
-	-o-background-size: cover;
-	z-index: -99;
-
-}
-
 
 .kpi{
 height: 50px;
@@ -163,24 +139,6 @@ margin-top:50px;
 	box-shadow: 0 0 16px -5px rgba(50, 50, 50, 0.52);
 }
 
-
-
-
-
-
-/* Style the sidebar - fixed full height 
-.sidebar {
-  height: 100%;
-  width: 160px;
-  position: fixed;
-  z-index: 1;
-  top: 0;
-  left: 0;
-  background-color: transparent;
-  overflow-x: hidden;
-  padding-top: 16px;
-}
-*/
 
 .main{
 margin-left:16%;
