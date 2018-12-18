@@ -20,7 +20,7 @@ I have designed the pages to represent the following objects
 Above is just to give an idea, you can use the objects according to your requirements and App design.
 
 
-## Add your qv objects as shown below
+## Add your qv objects as shown below in .js file
 
 <img width="429" alt="mashup" src="https://user-images.githubusercontent.com/45965007/50148245-e40b7800-02af-11e9-91bf-4bbd36bb93b5.PNG">
 
