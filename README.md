@@ -21,6 +21,16 @@ Above is just to give an idea, you can use the objects according to your require
 
 Eg:
 
+Screen1:
+
+<img width="956" alt="sidenav1" src="https://user-images.githubusercontent.com/45965007/50222459-38862480-0390-11e9-878e-a9c7ac3d972d.PNG">
+
+Screen2:
+
+<img width="958" alt="sidenav2" src="https://user-images.githubusercontent.com/45965007/50222460-391ebb00-0390-11e9-8864-f8ad32fff673.PNG">
+
+Screen3:
+
 <img width="950" alt="sidenav3" src="https://user-images.githubusercontent.com/45965007/50222457-37ed8e00-0390-11e9-88dd-1d6cdb538562.PNG">
 
 
