@@ -19,6 +19,10 @@ I have designed the pages to represent the following objects
 
 Above is just to give an idea, you can use the objects according to your requirements and App design.
 
+Eg:
+
+<img width="950" alt="sidenav3" src="https://user-images.githubusercontent.com/45965007/50222457-37ed8e00-0390-11e9-88dd-1d6cdb538562.PNG">
+
 
 ## Add your qv objects as shown below in .js file
 
