@@ -8,17 +8,8 @@ Server: zip files and install in the QMC
 
 ![ezgif com-video-to-gif](https://user-images.githubusercontent.com/45965007/51758069-c30f2180-20bc-11e9-96e7-31d6cea7058c.gif)
 
-In total you can add 23 QV objects.
 
 I have designed the pages to represent the following objects
-
-* Home - 8 kpi's and 1 map object.
-
-* KPIs - 1 bar chart, 3 orizontal guage charts and 3 pie charts.
-
-* Details - 1 scatter plot, 1 map, 2 pie charts and 2 line chart.
-
-Above is just to give an idea, you can use the objects according to your requirements and App design.
 
 Eg:
 
@@ -38,7 +29,7 @@ Screen4:
 
 <img width="957" alt="sidenav4" src="https://user-images.githubusercontent.com/45965007/50222458-38862480-0390-11e9-8515-ac97e3a3fe89.PNG">
 
-
+#Added Drag and Drop functionality
 
 
 
