@@ -6,7 +6,7 @@ Desktop: copy files to a directory under My Documents/Qlik/Sense/Extensions
 
 Server: zip files and install in the QMC
 
-![ezgif com-video-to-gif 1](https://user-images.githubusercontent.com/45965007/51758548-dd95ca80-20bd-11e9-8887-34c6ff250f82.gif)
+![ezgif com-video-to-gif 2](https://user-images.githubusercontent.com/45965007/51759262-b6d89380-20bf-11e9-8b75-93f113dba5b6.gif)
 
 I have designed the pages to represent the following objects
 
