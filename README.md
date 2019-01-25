@@ -8,7 +8,6 @@ Server: zip files and install in the QMC
 
 ![ezgif com-video-to-gif 1](https://user-images.githubusercontent.com/45965007/51758548-dd95ca80-20bd-11e9-8887-34c6ff250f82.gif)
 
-
 I have designed the pages to represent the following objects
 
 Eg:
