@@ -10,13 +10,6 @@ body {
 * need to set the height for objects
 * set top padding to make room for selection toolbar
 */
-div.qvobject, div.qvplaceholder {
-	padding: 5px 10px 10px 10px;
-	height: 275px;
-}
-
-
-
 
 #main {
 	width: auto;
@@ -24,41 +17,48 @@ div.qvobject, div.qvplaceholder {
 	
 }
 
+div.chart1,div.qvobject{
+	padding: 5px 10px 10px 10px;
+	height: 275px;
+}
 
-.kpi{
+
+div.kpi,div.qvobject{
 height: 50px;
 }
 
-.map{
+
+div.map,div.qvobject{
 height: 290px;
 }
 
-.guage{
+div.guage,div.qvobject{
 height: 120px;
 padding-top: 20px;
 }
 
-.guage1{
+div.guage1,div.qvobject{
 height: 120px;
 padding-top: 20px;
 }
 
-.pie{
+div.pie,div.qvobject{
 height:160px;
 }
 
-.chart{
+div.chart,div.qvobject{
 height: 310px;
 
 }
 
-.kpi2{
+div.kpi2,div.qvobject{
 height: 140px;
 }
 
-.kpi3{
+div.kpi3,div.qvobject{
 height: 200px;
 }
+
 
 .gap{
 margin-top:50px;
