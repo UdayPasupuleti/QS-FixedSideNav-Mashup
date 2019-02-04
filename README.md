@@ -4,7 +4,7 @@
 
 Desktop: copy files to a directory under My Documents/Qlik/Sense/Extensions
 
-Server: zip files and install in the QMC
+Server: zip files and Upoad to QMC
 
 ![ezgif com-video-to-gif 2](https://user-images.githubusercontent.com/45965007/51759262-b6d89380-20bf-11e9-8b75-93f113dba5b6.gif)
 
